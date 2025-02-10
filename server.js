@@ -1,5 +1,5 @@
 const express=require(`express`)
-const cors=reuire(`cors`)
+const cors=require(`cors`)
 const app=express()
 Port=5678
 
